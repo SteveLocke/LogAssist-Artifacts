@@ -1,4 +1,4 @@
-# LogAssist-Artifacts
+# LogAssist-Supplemental-Materials
 
 ## Dataset and user study questions
 ---
